@@ -1,0 +1,1 @@
+insert into user(id, user_name, phone, create_time, update_time) values(1, 'merlin', '17723047957', now(), now()); 
